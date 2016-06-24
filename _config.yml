@@ -1,0 +1,14 @@
+layout_spectrum: 0.2755102
+typography_spectrum: 0.3725922
+color:
+  saturation: 0.8406668
+  lightness: 0.320623
+  brandStrength: 0.9618689
+  brandColors:
+    - '#000000'
+    - '#FFFFFF'
+    - '#483E46'
+    - '#D4DCE2'
+    - '#A19DA2'
+  rhythmicContrast: 0.2593985
+name: JohnMark
